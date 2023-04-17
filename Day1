@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>
+Welcome To WebDev World.....
+
+    </title>
+</head>
+
+<body>
+<h1> BASICS OF HTML  
+</h1>
+<h2> Hyper Text Markup Language 
+</h2>
+<p>Lorem ipsum dolor,<i>amet consectetur adipisicing elit. </i> amet consectetur adipisicing elit. Iure at nemo consequuntur eaque 
+    quibusdam tenetur nostrum <mark>hic, quasi fugit voluptatum</mark> odio numquam. Enim vitae mollitia quae rem, iusto aspernatur 
+    tempora voluptatem sed, exercitationem  necessitatibus sunt aliquam 
+    adipisci veritatis laboriosam deserunt! Nesciunt corrupti quos cupiditate molestias odio ratione?
+     Quidem, quos?SYNTAX  lorem10<b> CREATOR--PRINCE KUMAR </b></p>
+<p>   Use of Subscript   10<sub>2</sub>
+    <p> Superscript  10<sup>2</sup></p>
+  </p>
+
+    
+    <p>Today's Date <del>17-04-2023</del>Oh ! Sorry it's 18-04-2023</p>
+
+    <p>To Do List </p>
+    <ol>
+
+
+        <li> Html</li><li> Css</li><li>Javascript</li>
+    </ol>
+
+    <p>More in To Do List </p>
+    <ul>
+
+
+        <li>React Js</li><li> Node Js</li><li>Angular Js</li>
+    </ul>
+
+    <table border>
+        <tr>
+            
+            
+           <th>c++</th>  
+           <th>Java </th>
+           <th>Python</th>
+        </tr>
+        <tr>
+<td>******</td>
+<td colspan="2">****</td>
+        </tr>
+
+        <tr>
+            <td>#####</td>
+            <td>####</td>
+            <td>###</td>
+                    </tr>
+    </table>
+</body>
+</html>
