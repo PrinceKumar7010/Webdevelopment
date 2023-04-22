@@ -1,0 +1,99 @@
+<html>
+
+<head>
+<title>
+Welcome To WebDev World.....
+
+    </title>
+</head>
+
+<body>
+<h1> BASICS OF HTML  
+</h1>
+<h2> Hyper Text Markup Language 
+</h2>
+<p>Lorem ipsum dolor,<i>amet consectetur adipisicing elit. </i> amet consectetur adipisicing elit. Iure at nemo consequuntur eaque 
+    quibusdam tenetur nostrum <mark>hic, quasi fugit voluptatum</mark> odio numquam. Enim vitae mollitia quae rem, iusto aspernatur 
+    tempora voluptatem sed, exercitationem  necessitatibus sunt aliquam 
+    adipisci veritatis laboriosam deserunt! Nesciunt corrupti quos cupiditate molestias odio ratione?
+     Quidem, quos?SYNTAX  lorem10<b> CREATOR--PRINCE KUMAR </b></p>
+<p>   Use of Subscript   10<sub>2</sub>
+    <p> Superscript  10<sup>2</sup></p>
+  </p>
+
+    <a href="https://github.com/PrinceKumar7010">Github</a>
+    <a href="https://www.linkedin.com/in/prince-k-325121253/"  target="_blank">Linkedin</a>
+    <p>Today's Date <del>17-04-2023</del>Oh ! Sorry it's 18-04-2023</p>
+<!-- Block level elements take extra space or more space than required whereas inline element take limited space which they required  -->
+<!-- inline tags (span , anchor, audio,video, bold ,italic) -->
+<!-- block level div,p -->
+    <p>BLOCK LEVEL ELEMENTS  </p>
+    <p>Google Developers Students Club p tag</p>
+    <div>Google Developers Students Club div tag</div>
+
+
+    <!-- IMAGE   -->
+<img src="https://images.pexels.com/photos/6005016/pexels-photo-6005016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Motivational Quotes"   height="500px" width="500"> 
+
+<video src="https://player.vimeo.com/progressive_redirect/playback/811787964/rendition/540p/file.mp4?loc=external&oauth2_token_id=57447761&signature=bcc46b65b37fefc07473e6af9070ed3cc6b79b0c732fa58bf05274cb2941998d" height="500px" width="500px" controls>   </video>
+
+<audio src="https://freshmaza.cc/files/download/id/4060" controls></audio>
+    <p>INLINE  LEVEL ELEMENTS  </p>
+<span>Google Developers Students Club Span tag</span>
+<span>Google Developers Students Club </span>
+<hr/>
+    <ol>
+
+
+        <li> Html</li><li> Css</li><li>Javascript</li>
+    </ol>
+
+    <p>More in To <br>Do List </p>
+    <ul>
+
+
+        <li>React Js</li><li> Node Js</li><li>Angular Js</li>
+    </ul>
+
+    <table border>
+        <tr>
+            
+            
+           <th>c++</th>  
+           <th>Java </th>
+           <th>Python</th>
+        </tr>
+        <tr>
+<td>******</td>
+<td colspan="2">****</td>
+        </tr>
+
+        <tr>
+            <td>#####</td>
+            <td>####</td>
+            <td>###</td>
+                    </tr>
+    </table>
+
+<form>
+
+    Name: <input type="text" placeholder="Full Name"><br>
+    Email <input type="text" placeholder="Electronic mail" readonly><br>
+    Gender <input type="radio" name="Gender" id="">Male <input type="radio" name="Gender" id="">Female  <br>
+    Password <input type="password" name="" id="" required> <br>
+    DOB <input type="date" name="" id=""><br>
+    <input type="submit" value="Login" >
+
+
+
+</form>
+
+
+
+
+
+</body>
+</html>
+<!-- \\     !enter     BOILER PLATE CODE -->
+
+   <!-- // control + forward slash to add comment -->
