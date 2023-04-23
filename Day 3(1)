@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS + HTML </title>
+    <!-- EXTERNAL CSS  -->
+    <!-- <link rel="stylesheet" href="./style.css"> -->
+<!-- INTERNAL CSS  -->
+    <!-- <style>
+
+body{
+
+    background-color: blueviolet;
+}
+
+    </style> -->
+</head>
+   <!-- INLINE CSS -->
+<!-- <body style="background-color: #3ae891;">     -->
+<body>
+    <!--importance :   inline > internal >external  -->
+
+     <link rel="stylesheet" href="./style.css">
+    <h1 class="qa">  Google Developers Students Club  </h1>
+    <p class="border">  Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, iusto.</p>
+    <h1> PAST EVENTS  </h1>
+    <ol class="qa">
+        <li >GDSC WOW</li>
+        <li>WEB3 WORKSHOP</li>
+        <li>G CLOUD WORKSHOP</li>
+    </ol>
+
+</body>
+</html>
