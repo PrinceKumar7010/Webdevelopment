@@ -1,0 +1,44 @@
+
+/* UNIVERSAL SELECTOR   Margin , padding set to 0; */
+
+*{
+background-color:#3ae891;
+font-size: 25px;
+
+
+}
+/* 
+h1{
+color: rgb(238, 135, 16);
+
+}
+p{
+    color: rgb(16, 227, 238);  
+} */
+  
+/* class selector  */
+
+.qa{
+color:blue;
+font-style: italic;
+
+}
+
+/* class selector use .classname */
+/* id selector use #idvalue  ->> id should be unique in a html document not repeated */
+#hp{
+color:yellow;
+font-style:oblique;
+
+
+}
+
+/* group selector */
+
+.border{
+
+    border: 7px solid red;
+    font-size: 25px;
+    margin: 100px;
+    padding: 100px;
+}
